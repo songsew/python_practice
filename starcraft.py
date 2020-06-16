@@ -5,7 +5,7 @@ class Unit:
         self.name = name
         self.hp = hp
         self.speed = speed
-        print("{} 유닛이 생성되었습니다.".format(name))
+        print("{} 유닛이 생성되었습니 다.".format(name))
 
     def move(self, location):
         print("[지상 유닛 이동]")
